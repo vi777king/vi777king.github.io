@@ -1,0 +1,17 @@
+{
+  "name": "good_gulp",
+  "description": "",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Jquery": "^3.4.1"
+  }
+}
